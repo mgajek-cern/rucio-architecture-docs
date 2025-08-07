@@ -10,3 +10,7 @@ Its primary goal is to provide a minimal and focused understanding of the system
 - [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio)
 - [Rucio daemons](https://rucio.github.io/documentation/started/main_components/daemons)
 - [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+
+## Context view
+
+![Context View](./diagrams/Context%20View.png)
