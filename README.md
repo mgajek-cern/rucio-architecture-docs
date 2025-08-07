@@ -40,6 +40,14 @@ TODO(mgajek-cern): Add links if existing
 
 ![Building Block Lvl 1 View](./diagrams/Building%20Block%20Lvl%201%20View.png)
 
+**Workflow Pattern:**
+
+1. *User/Client* → *REST API*: "Create replication rule: 3 copies on different continents"
+2. *REST API* → *Database*: Records the rule as a database entry
+3. *Daemons* → *Database*: Query for pending rules/tasks
+4. *Daemons* → *Storage/Transfer systems*: Execute the actual data operations
+5. *Daemons* → *Database*: Update completion status
+
 #### Lvl 2
 
 ![Building Block Lvl 2 View](./diagrams/Building%20Block%20Lvl%202%20View.png)
