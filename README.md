@@ -77,13 +77,9 @@ TODO(mgajek-cern): Add links if existing
 
 ### 8. Crosscutting concepts
 
-TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+Refer to [Accounting and quota](https://rucio.github.io/documentation/started/concepts/accounting_and_quota) and subsequent sections.
 
 ### 9. Architectural decisions
-
-TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
-
-### 10. Quality requirements
 
 TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
 
