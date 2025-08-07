@@ -11,6 +11,7 @@ Its primary goal is to provide a minimal and focused understanding of the system
 - [Rucio daemons](https://rucio.github.io/documentation/started/main_components/daemons)
 - [Rucio Project Structure](https://rucio.github.io/documentation/developer/project_structure)
 - [arc42 overview](https://arc42.org/overview)
+- [Markdown Architectural Decision Records](https://adr.github.io/madr/)
 
 ## arc42 chapters
 
