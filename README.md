@@ -22,7 +22,7 @@ See [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio
 
 ### 2. Constraints
 
-TODO(mgajek-cern): Add links if existing
+[Overview of constraints influencing the architecture can be found here](./2-constraints/architecture-constraints.md)
 
 ### 3. Context & Scope
 
@@ -85,7 +85,7 @@ TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
 
 ### 10. Quality requirements
 
-TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+[Overview of quality requirements can be found here](./10-quality-requirements/quality-requirements.md)
 
 ### 11. Risks & technical debt
 
