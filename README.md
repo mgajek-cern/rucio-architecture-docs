@@ -9,7 +9,7 @@ Its primary goal is to provide a minimal and focused understanding of the system
 
 - [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio)
 - [Rucio daemons](https://rucio.github.io/documentation/started/main_components/daemons)
-- [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+- [Rucio Project Structure](https://rucio.github.io/documentation/developer/project_structure)
 - [arc42 overview](https://arc42.org/overview)
 
 ## arc42 chapters
@@ -52,7 +52,7 @@ TODO(mgajek-cern): Add links if existing
 
 ![Building Block Lvl 2 View](./diagrams/Building%20Block%20Lvl%202%20View.png)
 
-See also: [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+See also: [Rucio Project Structure](https://rucio.github.io/documentation/developer/project_structure)
 
 ### 6. Runtime view
 
