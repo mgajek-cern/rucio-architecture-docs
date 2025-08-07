@@ -38,7 +38,7 @@ TODO(mgajek-cern): Add links if existing
 
 #### Lvl 1
 
-TODO(mgajek-cern): Add links if existing
+![Building Block Lvl 1 View](./diagrams/BuildingBlock%20Lvl%201%20View.png)
 
 #### Lvl 2
 
