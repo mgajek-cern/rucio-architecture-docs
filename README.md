@@ -73,6 +73,16 @@ TODO(mgajek-cern): Add links if existing
 
 ### 7. Deployment view
 
+#### Single Node (docker-compose)
+
+TODO(mgajek-cern): Add links if existing
+
+#### Multi-Node (Kubernetes)
+
+TODO(mgajek-cern): Add links if existing
+
+#### Multi-Site (Kubernetes Federation)
+
 TODO(mgajek-cern): Add links if existing
 
 ### 8. Crosscutting concepts
