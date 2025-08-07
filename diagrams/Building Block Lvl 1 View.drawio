@@ -72,7 +72,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="41" value="Storage Systems,&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Authentication Systems&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="17">
+                <mxCell id="41" value="Database Systems,&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Authentication Systems&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="17">
                     <mxGeometry x="0.1857" y="-1" relative="1" as="geometry">
                         <mxPoint x="-1" y="-49" as="offset"/>
                     </mxGeometry>
@@ -119,7 +119,7 @@
                 </mxCell>
                 <mxCell id="33" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 12px;&quot;&gt;Operator,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Developer,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;User&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="28" vertex="1" connectable="0">
                     <mxGeometry x="0.361" y="3" relative="1" as="geometry">
-                        <mxPoint x="-35" y="-33" as="offset"/>
+                        <mxPoint x="-75" y="-3" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="29" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;direction=south;" parent="1" vertex="1">
@@ -136,9 +136,9 @@
                         <mxPoint x="-290" y="120" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="Storage Systems,&lt;div&gt;Workflow Management Systems,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Authentication Systems,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Logging Systems&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39">
+                <mxCell id="40" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Database Systems,&lt;/span&gt;&lt;br&gt;Storage Systems,&lt;div&gt;Workflow Management Systems,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Transfer Systems,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Authentication Systems,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Logging Systems&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39">
                     <mxGeometry x="0.1273" y="-4" relative="1" as="geometry">
-                        <mxPoint x="-41" y="-36" as="offset"/>
+                        <mxPoint x="-134" y="4" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="37" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;direction=south;" vertex="1" parent="1">
