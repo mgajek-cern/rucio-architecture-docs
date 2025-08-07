@@ -28,7 +28,20 @@ TODO(mgajek-cern): Add links if existing
 
 ![Context View](./diagrams/Context%20View.png)
 
-TODO(mgajek-cern) brief explanation of all stakeholders and systems
+| Name | Type | Description |
+| --- | --- | --- |
+| Rucio | Internal System | Scientific data management framework providing declarative policy-based data organization, transfer, and lifecycle management across distributed heterogeneous storage infrastructure |
+| Workflow Management Systems | External System | Job and task orchestration platforms that coordinate with Rucio for data availability, requesting datasets at specific locations and registering job outputs for lifecycle management |
+| Authentication Systems | External System | Identity and access management services providing user authentication and authorization through various protocols and credential mechanisms |
+| Storage Systems | External System | Heterogeneous storage backends including traditional filesystems, object storage, tape archives, and cloud storage accessed through standardized protocols |
+| Monitoring Systems | External System | Analytics and observability platforms that collect, process, and visualize system performance metrics, usage statistics, and operational health data |
+| Logging Systems | External System | Centralized logging infrastructure that aggregates, stores, and provides search capabilities for system events, audit trails, and troubleshooting information |
+| Database Systems | External System | Transactional relational database management systems that serve as the persistence layer for catalog metadata, system state, and configuration data |
+| Transfer Systems | External System | Data movement services and protocols that handle the physical transfer of files between storage endpoints with reliability, scheduling, and error handling capabilities |
+
+---
+
+[Stakeholder details are provided here](./3-scope-and-context/stakeholders.md)
 
 ### 4. Solution strategy
 
