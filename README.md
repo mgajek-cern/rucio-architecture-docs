@@ -42,7 +42,9 @@ TODO(mgajek-cern): Add links if existing
 
 #### Lvl 2
 
-Checkout building block lvl 2 view in: [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+![Building Block Lvl 2 View](./diagrams/Building%20Block%20Lvl%202%20View.png)
+
+See also: [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
 
 ### 6. Runtime view
 
