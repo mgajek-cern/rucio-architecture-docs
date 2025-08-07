@@ -1,12 +1,9 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="HeY2LeON4eZHRDTgvdxS">
-        <mxGraphModel dx="1170" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1440" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4za64zZnmbUG_yDpErvb-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="4za64zZnmbUG_yDpErvb-9" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="4za64zZnmbUG_yDpErvb-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="4za64zZnmbUG_yDpErvb-8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
@@ -36,9 +33,6 @@
                 </mxCell>
                 <mxCell id="4za64zZnmbUG_yDpErvb-8" value="Workflow management systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="-120" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="4za64zZnmbUG_yDpErvb-9" value="Transfer tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-                    <mxGeometry x="414" y="-200" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4za64zZnmbUG_yDpErvb-16" value="Logging Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="200" width="120" height="60" as="geometry"/>
