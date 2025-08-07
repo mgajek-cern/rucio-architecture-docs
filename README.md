@@ -10,7 +10,69 @@ Its primary goal is to provide a minimal and focused understanding of the system
 - [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio)
 - [Rucio daemons](https://rucio.github.io/documentation/started/main_components/daemons)
 - [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+- [arc42 overview](https://arc42.org/overview)
 
-## Context view
+## arc42 chapters
+
+TODO(mgajek-cern): Eventually setup Jekyll based project or use other static site generator tool 
+
+### 1. Introduction and Goals
+
+See [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio)
+
+### 2. Constraints
+
+TODO(mgajek-cern): Add links if existing
+
+### 3. Context & Scope
 
 ![Context View](./diagrams/Context%20View.png)
+
+TODO(mgajek-cern) brief explanation of all stakeholders and systems
+
+### 4. Solution strategy
+
+TODO(mgajek-cern): Add links if existing
+
+### 5. Building Block views
+
+#### Lvl 1
+
+TODO(mgajek-cern): Add links if existing
+
+#### Lvl 2
+
+Checkout building block lvl 2 view in: [Rucio components](https://rucio.github.io/documentation/developer/project_structure)
+
+### 6. Runtime view
+
+TODO(mgajek-cern): Add links if existing
+
+### 7. Deployment view
+
+TODO(mgajek-cern): Add links if existing
+
+### 8. Crosscutting concepts
+
+TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+
+### 9. Architectural decisions
+
+TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+
+### 10. Quality requirements
+
+TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+
+### 10. Quality requirements
+
+TODO(mgajek-cern): Dedicated folder with .md content and add links if existing
+
+### 11. Risks & technical debt
+
+TODO(mgajek-cern): Add links if existing
+
+### 12. Glossary
+
+TODO(mgajek-cern): Add links if existing
+
