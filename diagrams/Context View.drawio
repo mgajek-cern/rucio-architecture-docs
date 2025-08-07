@@ -21,10 +21,10 @@
                 <mxCell id="4za64zZnmbUG_yDpErvb-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.013;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="4za64zZnmbUG_yDpErvb-16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="2">
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="3">
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4za64zZnmbUG_yDpErvb-1" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="4za64zZnmbUG_yDpErvb-1" value="&amp;lt;System&amp;gt;&lt;br&gt;Rucio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -39,10 +39,10 @@
                 <mxCell id="4za64zZnmbUG_yDpErvb-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;system&amp;gt;&lt;/span&gt;&lt;br&gt;Monitoring Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="4za64zZnmbUG_yDpErvb-8" value="&amp;lt;System&amp;gt;&lt;br&gt;Workflow Management Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+                <mxCell id="4za64zZnmbUG_yDpErvb-8" value="&amp;lt;System&amp;gt;&lt;br&gt;Messaging Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="-120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="4za64zZnmbUG_yDpErvb-16" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;system&amp;gt;&lt;/span&gt;&lt;br&gt;Logging Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+                <mxCell id="4za64zZnmbUG_yDpErvb-16" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;system&amp;gt;&lt;/span&gt;&lt;br&gt;Caching Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="200" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4za64zZnmbUG_yDpErvb-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="4za64zZnmbUG_yDpErvb-20" target="4za64zZnmbUG_yDpErvb-1" edge="1">
@@ -104,10 +104,10 @@
                         <mxRectangle width="180" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;System&amp;gt;&lt;/span&gt;&lt;br&gt;Dartabase Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;System&amp;gt;&lt;/span&gt;&lt;br&gt;Dartabase Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;System&amp;gt;&lt;/span&gt;&lt;br&gt;Tranfer Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;lt;System&amp;gt;&lt;/span&gt;&lt;br&gt;Tranfer Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="414" y="-200" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
