@@ -36,12 +36,11 @@ See [What is Rucio?](https://rucio.github.io/documentation/started/what_is_rucio
 | Authentication Systems | External System | Identity and access management services providing user authentication and authorization through various protocols and credential mechanisms |
 | Storage Systems | External System | Heterogeneous storage backends including traditional filesystems, object storage, tape archives, and cloud storage accessed through standardized protocols |
 | Monitoring Systems | External System | Analytics and observability platforms that collect, process, and visualize system performance metrics, usage statistics, and operational health data |
-| ~~Logging Systems~~ | ~~External System~~ | ~~Centralized logging infrastructure that aggregates, stores, and provides search capabilities for system events, audit trails, and troubleshooting information~~ |
+| Logging Systems | External System | Centralized logging infrastructure that aggregates, stores, and provides search capabilities for system events, audit trails, and troubleshooting information |
 | Database Systems | External System | Transactional relational database management systems that serve as the persistence layer for catalog metadata, system state, and configuration data |
 | Transfer Systems | External System | Data movement services and protocols that handle the physical transfer of files between storage endpoints with reliability, scheduling, and error handling capabilities |
 | Messaging Systems | External System      | Messaging services that enable asynchronous communication between distributed components, supporting event-driven architectures, decoupling, and reliable message delivery. |
 | Caching Systems | External System      | High-speed data stores that temporarily hold frequently accessed data to reduce latency, decrease load on primary data sources, and improve overall system performance. |
-
 
 ---
 
@@ -70,6 +69,14 @@ TODO(mgajek-cern): Add links if existing
 ![Building Block Lvl 2 View](./diagrams/Building%20Block%20Lvl%202%20View.png)
 
 See also: [Rucio Project Structure](https://rucio.github.io/documentation/developer/project_structure)
+
+#### Lvl 3
+
+##### Daemons
+
+TODO(mgajek-cern): Decomposition
+
+[For more information on Rucio daemons refer to](https://rucio.github.io/documentation/started/main_components/daemons)
 
 ### 6. Runtime view
 
