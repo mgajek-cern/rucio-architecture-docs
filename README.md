@@ -84,17 +84,23 @@ TODO(mgajek-cern): Add links if existing
 
 ### 7. Deployment view
 
-#### Single Node (docker-compose)
+*To be defined with stakeholders, example below*
 
-TODO(mgajek-cern): Add links if existing
+As of now, the system distinguishes between development and production environments. However, introducing a dedicated quality assurance (QA) environment could also be beneficial for testing changes in an isolated setting before promoting them to production.
 
-#### Multi-Node (Kubernetes)
+#### Development environment - Single Node (docker-compose)
 
-TODO(mgajek-cern): Add links if existing
+TODO(mgajek-cern): add diagram, links, some content
 
-#### Multi-Site (Kubernetes Federation)
+For additional information, refer to the [Using the Standard Environment](https://rucio.github.io/documentation/operator/setting_up_demo#using-the-standard-environment) section and subsequent sections.
 
-TODO(mgajek-cern): Add links if existing
+#### Development and Production environments - Multi-Node (Kubernetes)
+
+TODO(mgajek-cern): add diagram, links, some content
+
+#### Production environments - Multi-Site (Kubernetes Federation)
+
+TODO(mgajek-cern): add diagram, links, some content
 
 ### 8. Crosscutting concepts
 
